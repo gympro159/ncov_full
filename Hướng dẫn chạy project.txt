@@ -1,0 +1,6 @@
+1/ Install MongoDB: https://www.youtube.com/watch?v=FwMwO8pXfq0&t=568s
+
+2/ Run server: Trong folder ncov-server mở cmd gõ> mvnw spring-boot:run
+
+3/ Run FE: Trong folder ncov mở cmd gõ> npm i (chỉ gõ 1 lần duy nhất khi vừa mới tải về)
+	Đợi tải xong. gõ tiếp> npm start

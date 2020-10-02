@@ -1,0 +1,3 @@
+- Folder front-end: ncov
+- Folder API springboot: ncov-server
+- SRS + ERD: N3_SRS_v1.0.docx
